@@ -1,0 +1,251 @@
+{
+  "34a209d8-13b2-4533-9592-7af1479ef647": {
+    "url": "db://assets/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "27589c2d-6b1b-4ea1-8515-78a38a4d7cf2": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e57d6095-db81-44c4-bbe1-03dfebc5fb12": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "c0db8966-0519-4c61-8cb8-29fdae6ca928": {
+    "url": "db://assets/GameRes",
+    "value": {},
+    "versionCode": 1
+  },
+  "850a1729-b535-4385-8791-27e7f57fb1fb": {
+    "url": "db://assets/GameRes/audio",
+    "value": {},
+    "versionCode": 1
+  },
+  "6f4026a9-8872-4f85-aa50-a51629304587": {
+    "url": "db://assets/GameRes/grounds",
+    "value": {},
+    "versionCode": 1
+  },
+  "897b06a1-28d1-4727-8401-3ccf69833e96": {
+    "url": "db://assets/GameRes/Player",
+    "value": {},
+    "versionCode": 1
+  },
+  "713c4550-878b-4e3d-b139-56d8eb2e925a": {
+    "url": "db://assets/gameResurces/grounds/pic-10.jpg",
+    "value": {},
+    "versionCode": 1
+  },
+  "385695b9-bde6-4357-9887-90d878a1ba15": {
+    "url": "db://assets/gameResurces/grounds/pic-9.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2dd9274e-8db3-4063-9c6b-09a4150e7a46": {
+    "url": "db://assets/gameResurces/grounds/pic-1.webp",
+    "value": {},
+    "versionCode": 1
+  },
+  "e8c1c418-2ff4-4dd7-a431-97c0db950f8d": {
+    "url": "db://assets/gameResurces/grounds/pic-5.jpg",
+    "value": {},
+    "versionCode": 1
+  },
+  "2dd9274e-8db3-4063-9c6b-09a4150e7a46@6c48a": {
+    "url": "db://assets/gameResurces/grounds/pic-1.webp@6c48a",
+    "value": {
+      "depends": [
+        "2dd9274e-8db3-4063-9c6b-09a4150e7a46"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8c1c418-2ff4-4dd7-a431-97c0db950f8d@6c48a": {
+    "url": "db://assets/gameResurces/grounds/pic-5.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e8c1c418-2ff4-4dd7-a431-97c0db950f8d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8c1c418-2ff4-4dd7-a431-97c0db950f8d@f9941": {
+    "url": "db://assets/gameResurces/grounds/pic-5.jpg@f9941",
+    "value": {
+      "depends": [
+        "e8c1c418-2ff4-4dd7-a431-97c0db950f8d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2dd9274e-8db3-4063-9c6b-09a4150e7a46@f9941": {
+    "url": "db://assets/gameResurces/grounds/pic-1.webp@f9941",
+    "value": {
+      "depends": [
+        "2dd9274e-8db3-4063-9c6b-09a4150e7a46@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "08b7f350-1cb7-460b-ae30-0f17181c3b7a": {
+    "url": "db://assets/gameResurces/grounds/pic-1.webp",
+    "value": {},
+    "versionCode": 1
+  },
+  "06186cbe-1090-4fb1-b9ce-fe0b937b0a97": {
+    "url": "db://assets/GameRes/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "06186cbe-1090-4fb1-b9ce-fe0b937b0a97@6c48a": {
+    "url": "db://assets/GameRes/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg@6c48a",
+    "value": {
+      "depends": [
+        "06186cbe-1090-4fb1-b9ce-fe0b937b0a97"
+      ]
+    },
+    "versionCode": 1
+  },
+  "06186cbe-1090-4fb1-b9ce-fe0b937b0a97@f9941": {
+    "url": "db://assets/GameRes/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg@f9941",
+    "value": {
+      "depends": [
+        "06186cbe-1090-4fb1-b9ce-fe0b937b0a97@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bc9d38f0-977d-43df-95eb-c7abe74be692": {
+    "url": "db://assets/GameRes/grounds/pic-9.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "bc9d38f0-977d-43df-95eb-c7abe74be692@6c48a": {
+    "url": "db://assets/GameRes/grounds/pic-9.png@6c48a",
+    "value": {
+      "depends": [
+        "bc9d38f0-977d-43df-95eb-c7abe74be692"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bc9d38f0-977d-43df-95eb-c7abe74be692@f9941": {
+    "url": "db://assets/GameRes/grounds/pic-9.png@f9941",
+    "value": {
+      "depends": [
+        "bc9d38f0-977d-43df-95eb-c7abe74be692@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f4348fb2-6bb7-4b0c-b8ed-332b36ac4570": {
+    "url": "db://assets/gameResurces/Player/hero7.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "92741d72-4370-4c57-aa8d-d0b6f93732ff": {
+    "url": "db://assets/gameResurces/Player/hero7.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "7739b24e-d57e-4814-a4e2-2bb45eb38cc4": {
+    "url": "db://assets/GameRes/Player/hero7.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7739b24e-d57e-4814-a4e2-2bb45eb38cc4@6c48a": {
+    "url": "db://assets/GameRes/Player/hero7.png@6c48a",
+    "value": {
+      "depends": [
+        "7739b24e-d57e-4814-a4e2-2bb45eb38cc4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7739b24e-d57e-4814-a4e2-2bb45eb38cc4@f9941": {
+    "url": "db://assets/GameRes/Player/hero7.png@f9941",
+    "value": {
+      "depends": [
+        "7739b24e-d57e-4814-a4e2-2bb45eb38cc4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "24e2ecbf-8f2b-407e-ab8b-fb7f66d8d93c": {
+    "url": "db://assets/GameRes/Enemy",
+    "value": {},
+    "versionCode": 1
+  },
+  "db681b20-5fe7-4900-86aa-bf4330ded5ac": {
+    "url": "db://assets/GameRes/Enemy/Enemy.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "db681b20-5fe7-4900-86aa-bf4330ded5ac@6c48a": {
+    "url": "db://assets/GameRes/Enemy/Enemy.png@6c48a",
+    "value": {
+      "depends": [
+        "db681b20-5fe7-4900-86aa-bf4330ded5ac"
+      ]
+    },
+    "versionCode": 1
+  },
+  "db681b20-5fe7-4900-86aa-bf4330ded5ac@f9941": {
+    "url": "db://assets/GameRes/Enemy/Enemy.png@f9941",
+    "value": {
+      "depends": [
+        "db681b20-5fe7-4900-86aa-bf4330ded5ac@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "77b530c5-6a9d-4bf2-8a5c-4547daa818f8": {
+    "url": "db://assets/GameRes/Enemy/platform.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "77b530c5-6a9d-4bf2-8a5c-4547daa818f8@6c48a": {
+    "url": "db://assets/GameRes/Enemy/platform.png@6c48a",
+    "value": {
+      "depends": [
+        "77b530c5-6a9d-4bf2-8a5c-4547daa818f8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "77b530c5-6a9d-4bf2-8a5c-4547daa818f8@f9941": {
+    "url": "db://assets/GameRes/Enemy/platform.png@f9941",
+    "value": {
+      "depends": [
+        "77b530c5-6a9d-4bf2-8a5c-4547daa818f8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2a5aaa7e-d450-4d5c-b197-fb5a218207b6": {
+    "url": "db://assets/start.scene",
+    "value": {
+      "depends": [
+        "2a5aaa7e-d450-4d5c-b197-fb5a218207b6",
+        "bc9d38f0-977d-43df-95eb-c7abe74be692@f9941",
+        "7739b24e-d57e-4814-a4e2-2bb45eb38cc4@f9941",
+        "db681b20-5fe7-4900-86aa-bf4330ded5ac@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  }
+}

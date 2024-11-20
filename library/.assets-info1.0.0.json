@@ -1,0 +1,185 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/valeriafedorova/Desktop/NewProject/assets/prefabs.meta": {
+      "time": 1732090850533.2188
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/prefabs": {
+      "time": 1732090850527.7043,
+      "uuid": "34a209d8-13b2-4533-9592-7af1479ef647"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/scripts.meta": {
+      "time": 1732090865553.7954
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/scripts": {
+      "time": 1732090865550.7688,
+      "uuid": "27589c2d-6b1b-4ea1-8515-78a38a4d7cf2"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/scenes.meta": {
+      "time": 1732090871666.6646
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/scenes": {
+      "time": 1732090871656.2893,
+      "uuid": "e57d6095-db81-44c4-bbe1-03dfebc5fb12"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes.meta": {
+      "time": 1732090910226.86
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Player.meta": {
+      "time": 1732090955526.4253
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/audio.meta": {
+      "time": 1732090917482.941
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds.meta": {
+      "time": 1732090938764.636
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes": {
+      "time": 1732091554974.4583,
+      "uuid": "c0db8966-0519-4c61-8cb8-29fdae6ca928"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Player": {
+      "time": 1732091461510.6836,
+      "uuid": "897b06a1-28d1-4727-8401-3ccf69833e96"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/audio": {
+      "time": 1732090917477.6174,
+      "uuid": "850a1729-b535-4385-8791-27e7f57fb1fb"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds": {
+      "time": 1732091325424.4246,
+      "uuid": "6f4026a9-8872-4f85-aa50-a51629304587"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Player/hero7.png.meta": {
+      "time": 1732091461541.3667
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Player/hero7.png": {
+      "time": 1732091461507.2747,
+      "uuid": "7739b24e-d57e-4814-a4e2-2bb45eb38cc4"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds/pic-9.png.meta": {
+      "time": 1732091325487.7712
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds/pic-9.png": {
+      "time": 1732091325418.0244,
+      "uuid": "bc9d38f0-977d-43df-95eb-c7abe74be692"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg.meta": {
+      "time": 1732091281071.681
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg": {
+      "time": 1732091281035.8962,
+      "uuid": "06186cbe-1090-4fb1-b9ce-fe0b937b0a97"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy.meta": {
+      "time": 1732091554976.5232
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy": {
+      "time": 1732091615113.167,
+      "uuid": "24e2ecbf-8f2b-407e-ab8b-fb7f66d8d93c"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy/platform.png.meta": {
+      "time": 1732091592265.8723
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy/platform.png": {
+      "time": 1732091592246.6296,
+      "uuid": "77b530c5-6a9d-4bf2-8a5c-4547daa818f8"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy/Enemy.png.meta": {
+      "time": 1732091615134.4343
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy/Enemy.png": {
+      "time": 1732091592192.7046,
+      "uuid": "db681b20-5fe7-4900-86aa-bf4330ded5ac"
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/start.scene.meta": {
+      "time": 1732092667297.9675
+    },
+    "/Users/valeriafedorova/Desktop/NewProject/assets/start.scene": {
+      "time": 1732092667290.9102,
+      "uuid": "2a5aaa7e-d450-4d5c-b197-fb5a218207b6"
+    }
+  },
+  "missing": {
+    "34a209d8-13b2-4533-9592-7af1479ef647": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/зкуафиы",
+      "time": 1732090850527.7043,
+      "removeTime": 1732090857455
+    },
+    "2dd9274e-8db3-4063-9c6b-09a4150e7a46": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/grounds/pic-1.webp",
+      "time": 1720422065000,
+      "removeTime": 1732091063830
+    },
+    "713c4550-878b-4e3d-b139-56d8eb2e925a": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/grounds/pic-10.jpg",
+      "time": 1720422475000,
+      "removeTime": 1732091266807
+    },
+    "e8c1c418-2ff4-4dd7-a431-97c0db950f8d": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/grounds/pic-5.jpg",
+      "time": 1720422071000,
+      "removeTime": 1732091063830
+    },
+    "385695b9-bde6-4357-9887-90d878a1ba15": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/grounds/pic-9.png",
+      "time": 1720422306000,
+      "removeTime": 1732091264394
+    },
+    "08b7f350-1cb7-460b-ae30-0f17181c3b7a": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/grounds/pic-1.webp",
+      "time": 1720422065000,
+      "removeTime": 1732091261683
+    },
+    "f4348fb2-6bb7-4b0c-b8ed-332b36ac4570": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/Player/hero7.png",
+      "time": 1732091373803.8372,
+      "removeTime": 1732091442973
+    },
+    "92741d72-4370-4c57-aa8d-d0b6f93732ff": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/gameResurces/Player/hero7.png",
+      "time": 1732091449525.9912,
+      "removeTime": 1732091456722
+    },
+    "c0db8966-0519-4c61-8cb8-29fdae6ca928": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy",
+      "time": 1732090975514.8674,
+      "removeTime": 1732091546471
+    },
+    "897b06a1-28d1-4727-8401-3ccf69833e96": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/Player",
+      "time": 1732091461510.6836,
+      "removeTime": 1732091546472
+    },
+    "850a1729-b535-4385-8791-27e7f57fb1fb": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/audio",
+      "time": 1732090917477.6174,
+      "removeTime": 1732091546472
+    },
+    "6f4026a9-8872-4f85-aa50-a51629304587": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/grounds",
+      "time": 1732091325424.4246,
+      "removeTime": 1732091546472
+    },
+    "7739b24e-d57e-4814-a4e2-2bb45eb38cc4": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/Player/hero7.png",
+      "time": 1732091461507.2747,
+      "removeTime": 1732091546473
+    },
+    "06186cbe-1090-4fb1-b9ce-fe0b937b0a97": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/grounds/7sj7aLZnX8JZo6kb2R4AZw.jpg",
+      "time": 1732091281035.8962,
+      "removeTime": 1732091546473
+    },
+    "bc9d38f0-977d-43df-95eb-c7abe74be692": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/Enemy/grounds/pic-9.png",
+      "time": 1732091325418.0244,
+      "removeTime": 1732091546474
+    },
+    "db681b20-5fe7-4900-86aa-bf4330ded5ac": {
+      "path": "/Users/valeriafedorova/Desktop/NewProject/assets/GameRes/Enemy/Sprites 1 copy.png",
+      "time": 1732091592192.7046,
+      "removeTime": 1732091615119
+    }
+  }
+}

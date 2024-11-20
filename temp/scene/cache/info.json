@@ -1,0 +1,9 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M2",
+        "version": "Darwin Kernel Version 24.1.0: Thu Oct 10 21:02:45 PDT 2024; root:xnu-11215.41.3~2/RELEASE_ARM64_T8112"
+    },
+    "sceneListMap": {},
+    "deviceMd5": "d283b29107021a85e6900da66e24a362"
+}
